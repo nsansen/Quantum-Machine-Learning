@@ -1,6 +1,6 @@
 # Quantum-Machine-Learning
 
-Codes are used for the paper: Binary classifiers for noisy datasets: a comparative study of existing quantum machine learning frameworks and some new approaches, 2021  https://arxiv.org/abs/2111.03372
+Codes used on the paper: Binary classifiers for noisy datasets: a comparative study of existing quantum machine learning frameworks and some new approaches, 2021  https://arxiv.org/abs/2111.03372
 
 Packages:
 Python 3.8
