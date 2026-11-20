@@ -1,0 +1,17 @@
+# Developed against Python 3.8.
+# Versions below are those named in the original project notes; unpinned entries
+# were not version-specific there.
+
+pennylane
+tensorflow>=1.13.2
+Keras==2.4.3
+keras-models
+Keras-Preprocessing
+autograd
+numpy
+pandas
+scikit-learn
+matplotlib==3.3.3
+mpmath
+sklearn-pandas
+boto3
