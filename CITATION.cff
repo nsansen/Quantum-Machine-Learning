@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+authors:
+  - family-names: Schetakis
+    given-names: Nikolaos
+  - family-names: Aghamalyan
+    given-names: "D."
+  - family-names: Griffin
+    given-names: "P."
+  - family-names: Boguslavsky
+    given-names: "M."
+title: "Quantum Machine Learning: binary classifiers for noisy datasets"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Review of some existing QML frameworks and novel hybrid classical-quantum neural networks realising binary classification for the noisy datasets"
+  authors:
+    - family-names: Schetakis
+      given-names: "N."
+    - family-names: Aghamalyan
+      given-names: "D."
+    - family-names: Griffin
+      given-names: "P."
+    - family-names: Boguslavsky
+      given-names: "M."
+  journal: "Scientific Reports"
+  volume: 12
+  number: 11927
+  year: 2022
+  doi: "10.1038/s41598-022-14876-6"
